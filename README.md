@@ -19,3 +19,12 @@ This Python script provides a versatile port scanning tool capable of conducting
 ## Give cmd like
 python port_scanner.py <ip_range> <port_range> <scan_type>
 ex-python port_scanner.py 192.168.0.1-192.168.0.10 1-1000 stealth
+
+## Contributors
+
+- [Suhas H S](https://github.com/Suhas-30)
+
+## Disclaimer
+This tool is intended for educational and ethical testing purposes only. Any misuse or illegal activities using this tool are strictly prohibited. The author shall not be responsible for any misuse or damage caused by this tool.
+
+
